@@ -18,7 +18,7 @@ El Escape Room está compuesto por cuatro habitaciones:
 
 ## Estructura del proyecto
 ```text
-Escape-Room-PDDL/
+EscapeRoom-PDDL/
 │
 ├── domain.pddl
 │
@@ -44,5 +44,7 @@ Escape-Room-PDDL/
 El planificador encontró una solución de **14 acciones**, permitiendo que el jugador recoja los objetos necesarios, resuelva los acertijos, desbloquee las puertas y finalmente escape del laboratorio.
 
 ## Autor
+
+Joshua Emmanuel Esparza Chavez
 
 Proyecto académico desarrollado como parte de la materia de Inteligencia Artificial.
